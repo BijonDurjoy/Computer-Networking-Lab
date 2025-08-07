@@ -26,7 +26,7 @@ def receive_messages():
                 break
             print("\n" + msg.decode())
         except:
-            print("❌ Connection lost.")
+            print("Connection lost.")
             client_socket.close()
             break
 

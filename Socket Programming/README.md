@@ -22,5 +22,5 @@ In this part Person 2 send a .txt file to the server.
 ![Alt Text](https://github.com/BijonDurjoy/Computer-Networking-Lab/blob/9ef7c4b4ebfc70057da687acbfce346634198d14/Socket%20Programming/Images/Screenshot%20from%202025-08-10%2021-11-19.png) <br>
 Here, Person 1 downloads the file from the server. So both of them can also share files via TCP server
 
-- It is the file structure. where folder server_file contains all the file that are uploaded on the server. and the donloaded file will be situated on the main folder.
+- It is the file structure. where folder server_file contains all the file that are uploaded on the server. and the donloaded file will be situated on the main folder. <br>
 ![Alt Text](https://github.com/BijonDurjoy/Computer-Networking-Lab/blob/9ef7c4b4ebfc70057da687acbfce346634198d14/Socket%20Programming/Images/Screenshot%20from%202025-08-10%2021-11-31.png)

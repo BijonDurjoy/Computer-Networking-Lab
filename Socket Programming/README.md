@@ -4,6 +4,10 @@ In this assignment, our main task is:
 - Two people can chat with each other. One person can send one or multiple texts back-to-back without waiting for a reply.
 - A file server and client. The client can list, store, delete, and download files from the file server.
 
+# Authors:
+- Bijon Saha (2019831007)
+- Taufiq Ahmed (2019831053)
+
 # Output
 - Create a TCP server ![Alt text](https://github.com/BijonDurjoy/Computer-Networking-Lab/blob/9ef7c4b4ebfc70057da687acbfce346634198d14/Socket%20Programming/Images/Screenshot%20from%202025-08-10%2021-08-13.png)
 -Chating with another client simonteniously with TCP server:
